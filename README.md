@@ -6,9 +6,11 @@ An interactive Tableau dashboard designed to analyze sales performance across pr
 Tech Stack
 
 Tableau Desktop
+
 Data Visualization, Calculated Fields, Filters
 
 Data Source
+
 Sample sales dataset containing order details, revenue, profit, and regional performance.
 
 Features / Highlights
