@@ -4,6 +4,7 @@ Short Summary
 An interactive Tableau dashboard designed to analyze sales performance across products, regions, and time periods.
 
 Tech Stack
+
 Tableau Desktop
 Data Visualization, Calculated Fields, Filters
 
